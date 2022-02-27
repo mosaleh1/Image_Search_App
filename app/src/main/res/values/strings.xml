@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Image Search App</string>
+    <string name="un_splash_image_item_c_description">display the image of your search</string>
 </resources>
